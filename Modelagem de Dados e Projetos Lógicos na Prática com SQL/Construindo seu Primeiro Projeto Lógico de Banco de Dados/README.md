@@ -1,5 +1,3 @@
-# dio-ciencia-de-dados-com-python-primeiro-bd
-
 [Queries de criação do banco de dados](./create.sql)
 
 [Queries de inserção de dados dummy](./create.sql)
