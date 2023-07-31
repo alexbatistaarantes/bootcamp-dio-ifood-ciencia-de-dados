@@ -1,4 +1,3 @@
-Projetos do módulo Modelagem de Dados e Projetos Lógicos na Prática com SQL
+# bootcamp-dio-ifood-ciencia-de-dados
 
-# Projetos
-- [Construindo seu Primeiro Projeto Lógico de Banco de Dados](./Construindo seu Primeiro Projeto Lógico de Banco de Dados)
+Projetos desenvolvidos para o bootcamp [DIO Potência Tech powered by iFood | Ciência de Dados](https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python).
